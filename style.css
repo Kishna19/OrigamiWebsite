@@ -1,0 +1,35 @@
+h1 {
+     color: darkseagreen;
+     padding: 50px;
+   }
+
+   .header
+   {
+       border:solid;
+   }
+   .header
+   {
+       background-color: black;
+       display: grid;
+       justify-content:flex-start;
+   }
+
+   .grid
+   {
+       display:flex;
+       flex-grow: inherit;
+       justify-content: center;
+   }
+
+   .site-description
+   {
+       display: flex;
+       flex-wrap: wrap-reverse;
+       justify-content:start;
+   }
+
+   body
+   {
+       background-color: khaki;
+       text-align: center;
+   }
